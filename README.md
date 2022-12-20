@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaimin Rathwa
 - 👀 I’m interested in Programming, Development, Designing
-- 🌱 I’m currently learning DBMS
+- 🌱 I’m currently learning Advance CSS
 - 💞️ I’m looking to collaborate on Web development related Projects
 - 📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
 
