@@ -1,7 +1,8 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
-<h3 align="center">A passionate frontend developer and UI designer from India</h3>
-- 🔭 I’m currently working on [Chat App homepage](https://preview.webflow.com/preview/chat-app-homepage-fb394f?utm_medium=preview_link&utm_source=designer&utm_content=chat-app-homepage-fb394f&preview=cb481fe806d1c3b335805625b35e7dfd&workflow=preview) 
+<h5>A passionate frontend developer and UI designer from India</h5>
+
+- 🔭 I’m currently working on [Chat App HomePage](https://www.figma.com/file/kp4KzsGLtwJ8oNktstVUSy/Practice%3A-Chat-App-Homepage-Design-(Copy)?node-id=107%3A17&t=8X8FRRbiJc9UpSnH-1)
 
 - 🌱 I’m currently learning **Advance CSS**
 
