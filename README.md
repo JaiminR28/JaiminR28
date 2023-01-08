@@ -1,7 +1,19 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
 <h3 align="center">A passionate frontend developer and UI designer from India</h3>
-<br>👀 I’m interested in Programming, Development, Designing<br>🌱 I’m currently learning Advance CSS<br>💞️ I’m looking to collaborate on Web development related Projects<br>📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
+- 🔭 I’m currently working on [Chat App](https://preview.webflow.com/preview/chat-app-homepage-fb394f?utm_medium=preview_link&utm_source=designer&utm_content=chat-app-homepage-fb394f&preview=cb481fe806d1c3b335805625b35e7dfd&workflow=preview)
+
+- 🌱 I’m currently learning **Advance CSS**
+
+- 👯 I’m looking to collaborate on [Sunny-Side Hompage Project](https://github.com/JaiminR28/Sunny-side.git)
+
+- 📝 I regularly write articles on [https://oktechreview.blogspot.com/](https://oktechreview.blogspot.com/)
+
+- 💬 Ask me about **HTML,CSS**
+
+- 📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
+
+- ⚡ Fun fact **I think I'm Funny**
 
 
 ## 🌐 Socials:
