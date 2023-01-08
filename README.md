@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Jaimin Rathwa || UI designer || Front-End Developer<br>👀 I’m interested in Programming, Development, Designing<br>🌱 I’m currently learning Advance CSS<br>💞️ I’m looking to collaborate on Web development related Projects<br>📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
+<h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
+<h3 align="center">A passionate frontend developer and UI designer from India</h3>
+<br>👀 I’m interested in Programming, Development, Designing<br>🌱 I’m currently learning Advance CSS<br>💞️ I’m looking to collaborate on Web development related Projects<br>📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
 
 
 ## 🌐 Socials:
