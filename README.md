@@ -37,9 +37,22 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaiminR28&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaiminR28&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminR28&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=JaiminR28&theme=highcontrast&hide_border=false"
+  media="(prefers-color-scheme: no-preference)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=JaiminR28&theme=highcontrast&hide_border=false"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=JaiminR28&show_icons=true" />
+</picture>
+
+)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaiminR28&theme=highcontrast&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminR28&show_icons=true&theme=highcontrast)](https://github.com/JaiminR28/github-readme-stats)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -47,5 +60,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JaiminR28&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
