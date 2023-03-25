@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
 <h3>A passionate frontend developer and UI designer from India</h3>
 
-- 🔭 I’m currently working on [Chat App HomePage](https://preview.webflow.com/preview/chat-app-homepage-fb394f?utm_medium=preview_link&utm_source=designer&utm_content=chat-app-homepage-fb394f&preview=484ebc20faaaba11a25eff97cd783c51&workflow=preview)
+- 🔭 I’m currently working on [Capstone Website](https://github.com/JaiminR28/Capstone-project.git)
 
-- 🌱 I’m currently learning **Advance CSS**
-
-- 👯 I’m looking to collaborate on [Sunny-Side Hompage Project](https://github.com/JaiminR28/Sunny-side.git)
-
+- 🌱 I’m currently learning **React**
 - 📝 I regularly write articles on [https://oktechreview.blogspot.com/](https://oktechreview.blogspot.com/)
 
 - 💬 Ask me about **HTML,CSS**
