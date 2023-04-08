@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on [Capstone Website](https://github.com/JaiminR28/Capstone-project.git)
 
 - 🌱 I’m currently learning **React**
-- 📝 I regularly write articles on [https://oktechreview.blogspot.com/](https://oktechreview.blogspot.com/)
+- 📝 I regularly write articles on [oktechreview.blogger](https://oktechreview.blogspot.com/)
 
 - 💬 Ask me about **HTML,CSS**
 
-- 📫 How to reach me at https://www.linkedin.com/in/jaimin-rathwa-b128bb241
+- 📫 How to reach me at [LinkedIN](https://www.linkedin.com/in/jaimin-rathwa-b128bb241)
 
 - ⚡ Fun fact **I think I'm Funny**
 
