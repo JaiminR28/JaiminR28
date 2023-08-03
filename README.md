@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Ecommerce website](https://github.com/JaiminR28/MERN-E-Commerce-FrontEnd.git)
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **Micro-FrontEnd**
 - 📝 I regularly write articles on [oktechreview.blogger](https://oktechreview.blogspot.com/)
 
 - 💬 Ask me about **HTML,CSS**
