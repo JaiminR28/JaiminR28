@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
 <h3>A passionate MERN STACK developer and UI designer from India</h3>
 
-- 🔭 I’m currently working on [Ecommerce website](https://github.com/JaiminR28/MERN-E-Commerce-FrontEnd.git)
+- 🔭 I’m currently working on [Mini react Projects](https://github.com/JaiminR28/Mini-react-project.git)
 
 - 🌱 I’m currently learning **Micro-FrontEnd**
 - 📝 I regularly write articles on [oktechreview.blogger](https://oktechreview.blogspot.com/)
