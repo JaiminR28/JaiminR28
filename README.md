@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Mini react Projects](https://github.com/JaiminR28/Mini-react-project.git)
 
-- 🌱 I’m currently learning **Micro-FrontEnd**
+- 🌱 I’m currently learning **Advance Node.Js**
 - 📝 I regularly write articles on [oktechreview.blogger](https://oktechreview.blogspot.com/)
 
 - 💬 Ask me about **HTML,CSS**
