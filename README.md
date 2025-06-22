@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jaimin Rathwa</h1>
-<h3>A passionate MERN STACK developer and UI designer from India</h3>
+<h3>A passionate MERN STACK developer and React Native Developer from India</h3>
 
 - 🔭 I’m currently working on [Mini react Projects](https://github.com/JaiminR28/Mini-react-project.git)
 
